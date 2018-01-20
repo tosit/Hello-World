@@ -1,1 +1,2 @@
 This is a test.txt for checking $git commit.add AAA
+add BBB
