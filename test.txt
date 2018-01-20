@@ -1,1 +1,1 @@
-This is a test.txt for checking $git commit.
+This is a test.txt for checking $git commit.add AAA
