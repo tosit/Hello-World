@@ -1,6 +1,6 @@
-add AAA
+add aaa
 add BBB
-add CCC
+add ccc
 add DDD
-add EEE
+add eee
 add FFF
